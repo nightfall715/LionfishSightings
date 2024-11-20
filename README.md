@@ -1,5 +1,5 @@
 # Lionfish Sightings: Focus on US Gulf Coast 2013
-## Created for UNC ENGL 105.75
+### Created for UNC ENGL 105.75
 This repository contains:
 1. A database listing sightings of the invasive Lionfish throughout the Americas
 2. A guided Google CoLab analysis of the dataset, filtering it down to sightings from 2013 on the US Gulf Coast
