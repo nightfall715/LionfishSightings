@@ -6,7 +6,9 @@ This repository contains:
 3. A final filtered dataset
 
 # Purpose
-This repository is meant to help inform research investigating the abundance of invasive species in American coastal waters
+Invasive species are a developing anthropogenic phenomenon that can destabilize ecosystems. A classic example of an invasive species is the Lionfish, which was a popular aquarium fish often cast off into American waters, where it quickly populated without restraint. This repository is meant to help inform research investigating the abundance of invasive species in American coastal waters, specifically the spread of the Lionfish geographically over time. Unerstanding the population dynamics of invasive species is critical to limiting the stress they put on native food webs.
 # Source
 The original dataset for this repository comes from the United States Geological Survey Non-Indigenous Aquatic Species database ([link](https://nas.er.usgs.gov/queries/CollectionInfo.aspx?SpeciesID=963))
 
+
+Created and Maintained by Jack Weinard
